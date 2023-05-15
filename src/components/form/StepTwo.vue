@@ -60,7 +60,7 @@
         <input
         required
         type="password"
-        placeholder="******"
+        placeholder="*****"
         v-model="data.password"
         class="py-2 px-2 rounded-md border border-gray-300 bg-white outline-none" />
 
@@ -102,8 +102,6 @@
     </button>
   </form>
 </template>
-
-
 <style scoped>
 
 </style>
