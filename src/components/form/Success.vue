@@ -40,6 +40,10 @@
 
 <style scoped>
   body {
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 31fae8a (._)
   }
 </style>
