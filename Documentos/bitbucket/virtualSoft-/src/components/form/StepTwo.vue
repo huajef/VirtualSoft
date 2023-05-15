@@ -1,7 +1,6 @@
 <script setup lang="ts">
   import {useRegistrationDataStore} from "@/stores/registrationData";
   import {ref} from "vue";
-  // import ValidEmailDirective from "@/directives/validEmail";
 
 
   const form = useRegistrationDataStore();
