@@ -4,7 +4,7 @@ import * as cluster from "cluster";
 export const useRegistrationDataStore = defineStore( {
   id: "form",
   state: () => ({
-    step: 3 as number,
+    step: 1 as number,
     maxStep: 3 as number,
     success: false as boolean,
     form: {
